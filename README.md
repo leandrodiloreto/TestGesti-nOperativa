@@ -1,6 +1,6 @@
 # Test Gestion Operativa
 
-Es un script realizado en el luenguaje de programacion Python para la consulta masiva de informacion utiliando la API de Mercado Libre.
+Es un script realizado en el lenguaje de programacion Python para la consulta masiva de informacion utiliando la API de Mercado Libre.
 
 Mediante la ejecucucion del mismo se obtiene un archivo log (.txt) que contiene los items publicados en Mercado Libre Argentina (MLA) por determinados sellers.
 
